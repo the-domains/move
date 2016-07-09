@@ -1,0 +1,14 @@
+layout_spectrum: 0.3856555144302547
+typography_spectrum: 0.38845343026332557
+color:
+  brandStrength: 0.7332639845553786
+  lightness: 0.8046530149877071
+  saturation: 0.8920105788856745
+  rhythmicContrast: 0.9505534926429391
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Move
